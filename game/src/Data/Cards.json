@@ -8,5 +8,36 @@
         "name": "Bart",
         "imgUrl": "./assets/images/simp2.jpg",
         "clicked": false
-    }
+    },
+    {
+        "name": "Maggie",
+        "imgUrl": "./assets/images/maggie_p.jpg",
+        "clicked": false
+    },
+    {
+        "name": "Lisa",
+        "imgUrl": "./assets/images/download.jpg",
+        "clicked": false
+    },
+    {
+        "name": "Grampasimpson",
+        "imgUrl": "./assets/images/grampasimpson_1.jpg",
+        "clicked": false
+    },
+    {
+        "name": "Burns",
+        "imgUrl": "./assets/images/burns.jpg",
+        "clicked": false
+    },
+   {
+    "name": "Apu",
+        "imgUrl": "./assets/images/apu.jpg",
+        "clicked": false
+    },
+    {
+        "name": "Nerd",
+        "imgUrl": "./assets/images/simpnerd.jpg",
+        "clicked": false
+    },
+    
 ]
