@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Homer",
+        "imgUrl": "./assets/images/simp1.jpg",
+        "clicked": false
+    },
+    {
+        "name": "Bart",
+        "imgUrl": "./assets/images/simp2.jpg",
+        "clicked": false
+    }
+]
