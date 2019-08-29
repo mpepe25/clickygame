@@ -38,6 +38,6 @@
         "name": "Nerd",
         "imgUrl": "./assets/images/simpnerd.jpg",
         "clicked": false
-    },
+    }
     
 ]
