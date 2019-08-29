@@ -16,7 +16,7 @@ class App extends React.Component {
     const newArr = this.state.data.map(item => {
         if(item.name === val.name){
             if(!item.clicked){
-                // console.log("You changed it's value")
+                // console.log("You changed it's value")gi
                 item.clicked = true;
             } else {
                 console.log("already clicked")
