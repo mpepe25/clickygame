@@ -1,43 +1,74 @@
 [
-    {
-        "name": "Homer",
-        "imgUrl": "./assets/images/simp1.jpg",
-        "clicked": false
-    },
-    {
-        "name": "Bart",
-        "imgUrl": "./assets/images/simp2.jpg",
-        "clicked": false
-    },
-    {
+    {   
+        "id": 1,
         "name": "Maggie",
         "imgUrl": "./assets/images/maggie_p.jpg",
         "clicked": false
     },
     {
+        "id": 2,
         "name": "Lisa",
-        "imgUrl": "./assets/images/download.jpg",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Lisa_Simpson.png/220px-Lisa_Simpson.png",
         "clicked": false
     },
     {
+        "id": 3,
         "name": "Grampasimpson",
         "imgUrl": "./assets/images/grampasimpson_1.jpg",
         "clicked": false
     },
     {
+        "id": 4,
         "name": "Burns",
-        "imgUrl": "./assets/images/burns.jpg",
+        "imgUrl": "./assets/images/burns.jpeg",
         "clicked": false
     },
    {
-    "name": "Apu",
+      "id": 5,
+      "name": "Apu",
         "imgUrl": "./assets/images/apu.jpg",
         "clicked": false
     },
     {
+        "id": 6,
+        "name": "Moe",
+        "imgUrl": "./assets/images/moe.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Edna",
+        "imgUrl": "./assets/images/edna.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 8,
         "name": "Nerd",
-        "imgUrl": "./assets/images/simpnerd.jpg",
+        "imgUrl": "./assets/images/-simpnerd.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Van",
+        "imgUrl": "./assets/images/van.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Skinner",
+        "imgUrl": "./assets/images/skinner.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Santa",
+        "imgUrl": "./assets/images/santa.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Cheif",
+        "imgUrl": "./assets/images/chief.jpeg",
         "clicked": false
     }
-    
 ]
