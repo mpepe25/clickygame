@@ -39,14 +39,23 @@ class App extends React.Component {
       alert("You Loss, Start Over");
       this.setState({ simpsonsClicked: [], score: 0 });
       this.shuffle(data);
+      
     } else {
       this.setState({
         simpsonsClicked: [...this.state.simpsonsClicked, id],
         score: this.state.score + 1
-      });
+      }, () => this.checkIfWon());
       this.shuffle(data);
     }
   };
+
+  checkIfWon = () => {
+    if (this.state.simpsonsClicked.length === this.state.data.length) {
+      // alert('You Won!')
+      this.setState({ simpsonsClicked: [], score: 0 });
+      this.shuffle(data);
+  }
+}
   render() {
     return (
       <div>
